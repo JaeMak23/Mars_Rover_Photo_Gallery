@@ -2,6 +2,4 @@
     <string name="app_name">Mars Rover Photo Gallery</string>
     <string name="api_key">WfX1LMqusR7ZOzna1I376V1MSzAKDdOKuIA4GTY8</string>
     <string name="base_url">https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
