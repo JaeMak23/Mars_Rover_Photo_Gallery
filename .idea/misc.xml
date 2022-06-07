@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGallery/app/src/main/res/drawable/ic_mars_rover.xml" value="0.1" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGallery/app/src/main/res/drawable/rounded_rect.xml" value="0.1" />
         <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGallery/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGallery/app/src/main/res/layout/fragment_home.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGallery/app/src/main/res/layout/fragment_home.xml" value="0.1523809523809524" />
+        <entry key="..\:/Users/xxxx/AndroidStudioProjects/MarsRoverPhotoGallery/app/src/main/res/layout/row_photo_home.xml" value="0.30434782608695654" />
       </map>
     </option>
   </component>
