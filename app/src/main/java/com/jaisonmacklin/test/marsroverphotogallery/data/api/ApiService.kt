@@ -1,6 +1,6 @@
-package com.jaisonmacklin.test.marsroverphotogallery.api
+package com.jaisonmacklin.test.marsroverphotogallery.data.api
 
-import com.jaisonmacklin.test.marsroverphotogallery.models.PhotosResponse
+import com.jaisonmacklin.test.marsroverphotogallery.data.model.PhotosResponse
 import retrofit2.Response
 
 import retrofit2.http.GET

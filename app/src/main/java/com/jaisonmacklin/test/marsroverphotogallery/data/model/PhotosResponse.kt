@@ -1,4 +1,4 @@
-package com.jaisonmacklin.test.marsroverphotogallery.models
+package com.jaisonmacklin.test.marsroverphotogallery.data.model
 
 import com.google.gson.annotations.SerializedName
 

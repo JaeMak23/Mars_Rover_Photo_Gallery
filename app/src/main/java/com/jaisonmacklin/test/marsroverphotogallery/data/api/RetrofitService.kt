@@ -1,4 +1,4 @@
-package com.jaisonmacklin.test.marsroverphotogallery.api
+package com.jaisonmacklin.test.marsroverphotogallery.data.api
 
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
